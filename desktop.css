@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+body > p{
+    width: 600px;
+    margin: auto;
+    padding-bottom: 0;
+}
+
+main{
+    flex-flow: row nowrap;
+    height: 70vh;
+    align-items: center;
+}
+
+.supervisor, .calculator{
+    align-self: center;
+}
+
+.builder{
+    align-self: flex-start;
+}
+
+.karma{
+    align-self: flex-end;
+}

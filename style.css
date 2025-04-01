@@ -45,7 +45,7 @@ main{
     margin: 20px auto;
     border-radius: 10px;
     box-shadow: 5px 10px 10px #48465341;
-    width: 350px;
+    max-width: 350px;
 }
 
 .box h2{
@@ -61,7 +61,7 @@ main{
 .box img{
     position: relative;
     top: 0;
-    left: 230px;
+    left: 80%;
 }
 
 .supervisor{
