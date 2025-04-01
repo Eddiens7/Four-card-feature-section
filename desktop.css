@@ -7,6 +7,14 @@ body > p{
     padding-bottom: 0;
 }
 
+body > h1, body > h2{
+    font-size: 2em;
+}
+
+body > h2{
+    padding-top: 30px;
+}
+
 main{
     flex-flow: row nowrap;
     height: 70vh;
